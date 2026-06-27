@@ -5,6 +5,16 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Apasionado+por+la+Ingenier%C3%ADa+de+Software;Full+Stack+%7C+React+%2B+Node.js+%2B+SQL%2FNoSQL;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=7F3FBF&vCenter=true&size=22" alt="Typing SVG" />
 
+<br>
+
+<a href="https://www.linkedin.com/in/miguel-valencia-5a550041a" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Miguel%20Valencia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:miguelangelvalenciacastano@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </div>
 
 <br>
@@ -104,7 +114,8 @@ Plataforma académica modular full-stack (React + Node.js/Express + MySQL), orga
 
 Backend construido con Express 5, cors, dotenv, mysql2 y nodemon para el entorno de desarrollo. Autenticación JWT firmada manualmente con HMAC SHA-256, hash de contraseñas con `crypto.scrypt`, validación con Zod, rate limiting personalizado, e integración con la API de OpenAI para un asistente académico con fallback local.
 
-📌 [Frontend](https://github.com/1035222/nousia-frontend) · [Backend](https://github.com/1035222/Nousia-BACKEND)
+📌 **Frontend:** https://github.com/1035222/nousia-frontend  
+📌 **Backend:** https://github.com/1035222/Nousia-BACKEND
 
 <br>
 
@@ -116,6 +127,10 @@ Backend construido con Express 5, cors, dotenv, mysql2 y nodemon para el entorno
 
 <a href="mailto:miguelangelvalenciacastano@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/miguel-valencia-5a550041a" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Miguel%20Valencia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
@@ -131,8 +146,4 @@ Backend construido con Express 5, cors, dotenv, mysql2 y nodemon para el entorno
 </div>
 
 <br>
-
-<p align="right">
-<em>Construyendo software con propósito 🟣</em>
-</p>
-
+```

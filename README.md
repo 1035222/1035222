@@ -122,7 +122,7 @@ Backend construido con Express 5, cors, dotenv, mysql2 y nodemon para el entorno
 
 📌 **Backend:** https://github.com/1035222/Nousia-BACKEND
 
-📌 **Ver sitio:** https://1035222.github.io/nousia-frontend/login
+📌 **NOUSIA:** https://1035222.github.io/nousia-frontend/
 
 
 

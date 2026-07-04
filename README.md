@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hola, soy Miguel Angel Valencia Castaño 👋
@@ -6,6 +5,10 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Apasionado+por+la+Ingenier%C3%ADa+de+Software;Full+Stack+%7C+React+%2B+Node.js+%2B+SQL%2FNoSQL;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=7F3FBF&vCenter=true&size=22" alt="Typing SVG" />
 
 <br>
+
+<a href="https://1035222.github.io/Mi-portafolio-/" target="_blank">
+<img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-7F3FBF?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
 <a href="https://www.linkedin.com/in/miguel-valencia-5a550041a" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Valencia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -27,6 +30,7 @@ Soy estudiante de Ingeniería Informática con interés particular en **ingenier
 
 Me muevo cómodo tanto en el desarrollo **frontend** como **backend**, y disfruto trabajando con datos — desde modelado en SQL/NoSQL hasta visualización en Power BI.
 
+- 🌐 Mi portafolio: **[1035222.github.io/Mi-portafolio-](https://1035222.github.io/Mi-portafolio-/)**
 - 🔭 Actualmente desarrollando **NOUSIA**, una plataforma académica modular (más abajo 👇)
 - 🌱 Aprendiendo constantemente sobre arquitectura de software y buenas prácticas backend
 - 💬 Abierto a colaborar en proyectos de desarrollo web full-stack
@@ -78,13 +82,13 @@ Me muevo cómodo tanto en el desarrollo **frontend** como **backend**, y disfrut
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1035222&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1035222&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=1035222&theme=midnight-purple&hide_border=true"/>
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1035222&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1035222&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
 
 <br><br>
 
@@ -115,7 +119,12 @@ Plataforma académica modular full-stack (React + Node.js/Express + MySQL), orga
 Backend construido con Express 5, cors, dotenv, mysql2 y nodemon para el entorno de desarrollo. Autenticación JWT firmada manualmente con HMAC SHA-256, hash de contraseñas con `crypto.scrypt`, validación con Zod, rate limiting personalizado, e integración con la API de OpenAI para un asistente académico con fallback local.
 
 📌 **Frontend:** https://github.com/1035222/nousia-frontend  
+
 📌 **Backend:** https://github.com/1035222/Nousia-BACKEND
+
+📌 **Ver sitio:** https://1035222.github.io/nousia-frontend/login
+
+
 
 <br>
 
@@ -124,6 +133,10 @@ Backend construido con Express 5, cors, dotenv, mysql2 y nodemon para el entorno
 <div align="center">
 
 ### 📫 Contáctame
+
+<a href="https://1035222.github.io/Mi-portafolio-/" target="_blank">
+<img src="https://img.shields.io/badge/Portafolio-Ver%20sitio-7F3FBF?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
 <a href="mailto:miguelangelvalenciacastano@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -146,4 +159,3 @@ Backend construido con Express 5, cors, dotenv, mysql2 y nodemon para el entorno
 </div>
 
 <br>
-```

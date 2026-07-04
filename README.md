@@ -118,9 +118,6 @@ Plataforma académica modular full-stack (React + Node.js/Express + MySQL), orga
 
 Backend construido con Express 5, cors, dotenv, mysql2 y nodemon para el entorno de desarrollo. Autenticación JWT firmada manualmente con HMAC SHA-256, hash de contraseñas con `crypto.scrypt`, validación con Zod, rate limiting personalizado, e integración con la API de OpenAI para un asistente académico con fallback local.
 
-📌 **Frontend:** https://github.com/1035222/nousia-frontend  
-
-📌 **Backend:** https://github.com/1035222/Nousia-BACKEND
 
 📌 **NOUSIA:** https://1035222.github.io/nousia-frontend/
 

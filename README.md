@@ -67,6 +67,12 @@ Me muevo cómodo tanto en el desarrollo **frontend** como **backend**, y disfrut
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
+### Despliegue
+
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ### Herramientas y entornos
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -118,10 +124,9 @@ Plataforma académica modular full-stack (React + Node.js/Express + MySQL), orga
 
 Backend construido con Express 5, cors, dotenv, mysql2 y nodemon para el entorno de desarrollo. Autenticación JWT firmada manualmente con HMAC SHA-256, hash de contraseñas con `crypto.scrypt`, validación con Zod, rate limiting personalizado, e integración con la API de OpenAI para un asistente académico con fallback local.
 
+**Infraestructura:** Backend + MySQL desplegados en **Railway**, frontend estático (Vite build) desplegado en **Render**, con CORS configurado por variables de entorno entre ambos servicios.
 
-📌 **NOUSIA:** https://1035222.github.io/nousia-frontend/
-
-
+📌 **NOUSIA:** https://nousia-frontend.onrender.com/
 
 <br>
 
@@ -142,16 +147,6 @@ Backend construido con Express 5, cors, dotenv, mysql2 y nodemon para el entorno
 <a href="https://www.linkedin.com/in/miguel-valencia-5a550041a" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Valencia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 👀 Visitas al perfil
-
-![](https://komarev.com/ghpvc/?username=1035222&style=for-the-badge&color=blueviolet)
 
 </div>
 

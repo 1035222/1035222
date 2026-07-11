@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Miguel Angel Valencia Castaño 👋
+# Hola, soy Miguel Valencia 👋
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Apasionado+por+la+Ingenier%C3%ADa+de+Software;Full+Stack+%7C+React+%2B+Node.js+%2B+SQL%2FNoSQL;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=7F3FBF&vCenter=true&size=22" alt="Typing SVG" />
 
@@ -88,13 +88,13 @@ Me muevo cómodo tanto en el desarrollo **frontend** como **backend**, y disfrut
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1035222&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1035222&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=86400"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=1035222&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=1035222&theme=midnight-purple&hide_border=true"/>
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1035222&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1035222&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=86400"/>
 
 <br><br>
 
@@ -106,7 +106,7 @@ Me muevo cómodo tanto en el desarrollo **frontend** como **backend**, y disfrut
 
 ## 📈 Actividad
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1035222&custom_title=Actividad%20en%20GitHub&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=FFFFFF&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1035222&custom_title=Actividad%20en%20GitHub&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=FFFFFF&area=true&cache_seconds=86400)
 
 <br>
 
